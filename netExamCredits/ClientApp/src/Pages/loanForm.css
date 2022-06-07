@@ -1,0 +1,39 @@
+p{
+    margin: 5px 5px;
+}
+#form {
+    display: grid;
+    gap: 30px;
+    margin: 20px 70px;
+    grid-template-columns: 2fr 1fr;
+    padding: 5px;
+    border: 1px solid black;
+}
+#FIO {
+    width: 100%;
+}
+#passport {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 5px;
+}
+#passS {
+    grid-column: 1;
+    grid-row: 1;
+}
+#passN {
+    grid-column: 2/4;
+    grid-row: 1;
+}
+#passO {
+    grid-column: 1/3;
+    grid-row: 2;
+}
+#passP {
+    grid-column: 1/4;
+    grid-row: 3;
+}
+
+#carAge {
+    display: none;
+}

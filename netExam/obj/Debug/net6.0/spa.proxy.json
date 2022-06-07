@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "http://localhost:3000",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\Toxicman\\Desktop\\GitHub\\DotNext_4Semestr\\netExam\\front\\",
+"MaxTimeoutInSeconds": "120"
+}
+}

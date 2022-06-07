@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "34HBTQbQAtdws9buWhxUAkOG43hjTo7Ds4kHNQZQA+sgnmimrz4dG8KbbcsOadNuSH9Rmvv7UszWvzUCLMxHmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Toxicman\\Desktop\\GitHub\\DotNext_4Semestr\\netExam\\netExam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Toxicman\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\6.0.4\\microsoft.aspnetcore.spaproxy.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
